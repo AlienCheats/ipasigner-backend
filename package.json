@@ -1,0 +1,12 @@
+{
+    "name": "ipa-signer-backend",
+    "version": "1.0.0",
+    "description": "A simple IPA signing service",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
